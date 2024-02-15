@@ -8,5 +8,5 @@ Instructions
 1. Select Test Subject ID No.
 
 References
-[Belly Button Biodiversity Dataset](http://robdunnlab.com/projects/belly-button-biodiversity/)http://robdunnlab.com/projects/belly-button-biodiversity/
-[Plotly.js Documentation](https://plot.ly/javascript/)https://plot.ly/javascript/
+1. [Belly Button Biodiversity Dataset](http://robdunnlab.com/projects/belly-button-biodiversity/)http://robdunnlab.com/projects/belly-button-biodiversity/
+2. [Plotly.js Documentation](https://plot.ly/javascript/)https://plot.ly/javascript/
